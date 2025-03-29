@@ -23,6 +23,14 @@
 🔭 I’m currently working on a trading algorithm and a music player. <br> 🤝 I’m happy to collaborate on cybersecurity and data science projects. <br> 🌱 I’m looking for help to grow as a developer and analyst.  <br> 📖 I’m currently learning the CompTIA Cybersecurity course online.  <br>
 
 ###
+## 🐍 GitHub Contributions Snake  
+  
+![GitHub Snake Dark](https://Tanishq6150.github.io/Tanishq6150/github-snake-dark.svg)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+###
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanishq_.raj) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@tanishqraj6150) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/tanishqraj6150) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/waste_lif) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanishqraj6150@gmail.com) 
 ###
@@ -35,12 +43,14 @@
 ###
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tanishq6150&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+###
 
-## 🐍 GitHub Contributions Snake  
-  
-![GitHub Snake Dark](https://Tanishq6150.github.io/Tanishq6150/github-snake-dark.svg)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🕹️ GitHub Contributions Pac-Man  
+
+![GitHub Pac-Man](https://Tanishq6150.github.io/Tanishq6150/github-contribution-grid-pacman.svg)
+
+
 
 
 
