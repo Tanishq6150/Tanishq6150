@@ -38,10 +38,10 @@
 
 ## 🐍 GitHub Contributions Snake  
 Light Mode:  
-![GitHub Snake](https://Tanishq6150.github.io/<repo-name>/github-snake.svg)
+![GitHub Snake](https://Tanishq6150.github.io/<Tanishq6150>/github-snake.svg)
 
 Dark Mode:  
-![GitHub Snake Dark](https://Tanishq6150.github.io/<repo-name>/github-snake-dark.svg)
+![GitHub Snake Dark](https://Tanishq6150.github.io/<Tanishq6150>/github-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
