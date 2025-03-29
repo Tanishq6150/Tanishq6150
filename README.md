@@ -44,6 +44,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tanishq6150&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 ###
+# 🟡 Pac-Man Eating My Contributions
+
+![Pac-Man Contribution Graph - Dark](https://Tanishq6150.github.io/Tanishq6150/pacman-contribution-graph-dark.svg)
+
 
 
 
