@@ -36,7 +36,15 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tanishq6150&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
+## 🐍 GitHub Contributions Snake  
+Light Mode:  
+![GitHub Snake](https://Tanishq6150.github.io/<repo-name>/github-snake.svg)
+
+Dark Mode:  
+![GitHub Snake Dark](https://Tanishq6150.github.io/<repo-name>/github-snake-dark.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 ### 📌 Inspiring Developer Quote
