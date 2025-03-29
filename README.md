@@ -37,8 +37,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Tanishq6150&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐍 GitHub Contributions Snake  
-
-### Dark Mode:  
+  
 ![GitHub Snake Dark](https://Tanishq6150.github.io/Tanishq6150/github-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
