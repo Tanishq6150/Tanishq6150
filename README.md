@@ -46,13 +46,6 @@
 ###
 
 
-## 🕹️ GitHub Contributions Pac-Man  
-
-![GitHub Pac-Man](https://Tanishq6150.github.io/Tanishq6150/github-contribution-grid-pacman.svg)
-
-
-
-
 
 ### 📌 Inspiring Developer Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
