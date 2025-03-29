@@ -20,7 +20,7 @@
 
 ###
 ## 💫 About Me:
-- 🔭 I’m currently working on a trading algorithm and a music player.  <br>- 🤝 I’m happy to collaborate on cybersecurity and data science projects.  <br>- 🌱 I’m looking for help to grow as a developer and analyst.  <br>- 📖 I’m currently learning the CompTIA Cybersecurity course online.  <br>
+🔭 I’m currently working on a trading algorithm and a music player. <br> 🤝 I’m happy to collaborate on cybersecurity and data science projects. <br> 🌱 I’m looking for help to grow as a developer and analyst.  <br> 📖 I’m currently learning the CompTIA Cybersecurity course online.  <br>
 
 ###
 ## 🌐 Socials:
