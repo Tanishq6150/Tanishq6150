@@ -23,9 +23,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanishq6150&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq6150&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanishq6150&theme=tokyonight" width="100%" alt="profile summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanishq6150&theme=tokyonight" height="160" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanishq6150&theme=tokyonight" height="160" alt="top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tanishq6150&theme=tokyonight&utcOffset=5.5" height="160" alt="productive time" />
 </p>
 
 <p align="center">
