@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanishq Raj</h1>
 <h3 align="center">Passionate about ML, Cybersecurity & Trending Tech</h3>
 
-<br/>
+---
 
 ## 💫 About Me
 
@@ -10,28 +10,29 @@
 - 📖 Currently studying the **CompTIA Cybersecurity** course online
 - 🌱 Always looking to grow as a developer and analyst
 
-<br/>
+---
 
 ## 🚀 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,tensorflow,pytorch,opencv,sklearn,mysql,figma,git,matlab" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,tensorflow,pytorch,opencv,sklearn,mysql,figma,git" />
 </p>
 
-<br/>
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanishq6150&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq6150&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanishq6150&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishq6150&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tanishq6150&theme=tokyonight&hide_border=true&border_radius=5" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Tanishq6150&theme=tokyonight&hide_border=true" height="165" alt="streak" />
 </p>
 
-<br/>
+---
 
 ## 🏆 GitHub Trophies
 
@@ -39,7 +40,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Tanishq6150&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </p>
 
-<br/>
+---
 
 ## 🌐 Connect With Me
 
@@ -53,6 +54,4 @@
 
 ---
 
-<p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=TANISHQ6150&icon=0&color=6" alt="profile views" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Tanishq6150&color=blue&style=flat)
