@@ -98,11 +98,14 @@ Structured study of nature-inspired optimization algorithms (genetic algorithms,
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tanishq6150&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanishq6150/Tanishq6150/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tanishq6150/Tanishq6150/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+> ⚙️ Requires a one-time GitHub Actions setup — see setup steps below.
 
 ---
 
