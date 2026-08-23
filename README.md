@@ -98,17 +98,6 @@ Structured study of nature-inspired optimization algorithms (genetic algorithms,
 
 ---
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanishq6150/Tanishq6150/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Tanishq6150/Tanishq6150/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-> ⚙️ Requires a one-time GitHub Actions setup — see setup steps below.
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
