@@ -34,14 +34,6 @@
 
 ---
 
-## Contributions
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/FF7518/Tanishq6150" alt="Tanishq6150 contribution graph" width="100%" />
-</p>
-
----
-
 ## Connect
 
 <p align="left">
